@@ -5,5 +5,6 @@ pub mod app;
 pub fn hydrate() {
     use crate::app::*;
     console_error_panic_hook::set_once();
+    console_log::init_with_level(log::Level::Debug).expect("Failed to initialize console logging");
     leptos::mount::hydrate_body(App);
 }
