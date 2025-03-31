@@ -8,9 +8,9 @@ List, add, and delete users from an SQLite database.
 
 ![Leptos Full Stack](preview.png)
 
-Pre-compiled for Linux.
-
 **Download:** https://github.com/hexensemble/leptos-full-stack/releases
+
+Pre-compiled for Linux.
 
 <br>
 
