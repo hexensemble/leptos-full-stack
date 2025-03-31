@@ -1,2 +1,2 @@
-# leptos-full-stack
-Example Rust full-stack app built with Leptos, Axum, and SQLx. 🧱 
+# Leptos Full Stack
+Example Rust full-stack built with Leptos, Axum, and SQLx. 🧱 
