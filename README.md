@@ -25,3 +25,16 @@ export LEPTOS_RELOAD_PORT="3001"
 ```
 
 Then run the server binary `./leptos-full-stack` and head to 127.0.0.1:3000 in your browser.
+
+<br>
+
+**Features:**
+
+- Full-Stack with Leptos
+- Rust from front to back
+- Axum REST API integration
+- SQLite database
+- SQLx for database integration
+- CORS configured
+- Reactive user interface
+- Simple form handling
